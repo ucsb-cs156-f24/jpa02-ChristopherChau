@@ -34,6 +34,3 @@ public class DeveloperTest {
     }
 
 }
-
-
-git config rebase 
