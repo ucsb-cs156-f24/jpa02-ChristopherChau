@@ -2,7 +2,7 @@
 
 Repo: (https://github.com/ucsb-cs156-f24/jpa02-ChristopherChau)
 
-Deployed at: https://jpa02-christopherchau.dokku-03.cs.ucsb.edu
+Deployed at: (https://jpa02-christopherchau.dokku-03.cs.ucsb.edu)
 
 
 # About this repo
