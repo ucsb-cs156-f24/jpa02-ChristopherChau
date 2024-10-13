@@ -1,6 +1,6 @@
 # jpa02-ChristopherChau
 
-Repo: [https://ucsb-cs156-f24/STARTER-jpa02](https://github.com/ucsb-cs156-f24/jpa02-ChristopherChau)
+Repo: (https://github.com/ucsb-cs156-f24/jpa02-ChristopherChau)
 
 * TODO: Correct the "deployed at" link to app on Dokku
   then delete this TODO.  Replace it with 
